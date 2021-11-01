@@ -1,0 +1,10 @@
+.offering form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.offering input, textarea{
+    width: 50%;
+    margin: 5px;
+}
